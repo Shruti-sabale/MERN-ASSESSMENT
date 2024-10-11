@@ -1,0 +1,1 @@
+This project is a MERN Stack-based coding assessment that demonstrates the ability to build a full-stack application using MongoDB, Express.js, React.js, and Node.js. The backend provides a set of APIs to handle product transactions, and the frontend displays these transactions along with statistical information using tables and charts.
